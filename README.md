@@ -8,5 +8,5 @@ Jbots is not a great option if u are using it for something complex or anything 
 Aperium, 2024 Soon
 
 
-# WARNING THIS CODE IS NOT TESTER WARNING
+# WARNING THIS CODE IS NOT TESTED WARNING
 please make a issue in github about the issue and it will be fixed, Thank you.
